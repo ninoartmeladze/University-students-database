@@ -1,14 +1,6 @@
-
-
-
-
---
 -- Database: `university-database 10group`
 --
-
 -- --------------------------------------------------------
-
---
 -- Table structure for table `assistant_manager`
 --
 
